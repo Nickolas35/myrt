@@ -1,6 +1,6 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleBlueCrystal, function (sprite, location) {
-    music.jumpUp.play()
     game.showLongText("YOU WIN!!!", DialogLayout.Bottom)
+    music.jumpUp.play()
     effects.confetti.startScreenEffect()
 })
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleRedCrystal, function (sprite, location) {

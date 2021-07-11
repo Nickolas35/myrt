@@ -11,10 +11,10 @@ namespace myImages {
 . . f 9 9 9 9 9 9 9 9 9 9 f . . 
 . . f 9 9 9 9 9 9 9 9 9 9 f . . 
 . f 9 9 9 9 9 9 9 9 9 9 9 9 f . 
-. f 9 9 f f e e e e f f 9 9 f . 
-. f 9 9 f b f e e f b f 9 9 f . 
-. f 9 9 e 1 f 4 4 f 1 e 9 9 f . 
-f f 9 9 f 4 4 4 4 4 4 f 9 9 f f 
+. f 9 9 f f e e e e e f 9 9 f . 
+. f 9 a f b f e e f b f a 9 f . 
+. f 9 a e 1 f 4 4 f 1 e a 9 f . 
+f f 9 a f 4 4 4 4 4 4 f a 9 f f 
 f 9 9 f f f e e e e f f f 9 9 f 
 . f e e f b d d d d b f e e f . 
 . . e 4 c d d d d d d c 4 e . . 
